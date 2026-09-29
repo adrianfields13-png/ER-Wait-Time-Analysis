@@ -1,0 +1,501 @@
+CaseID,Shift,TriageLevel,StaffOnDuty,WaitTime_Mins,Walkout_YN,ArrivalTime,Age,CriticalCases_OnShift,Period,Defect_YN,Walkout,VisitID,WalkoutFlag
+1,Day,2,5,160.12,No,Afternoon,45.3,2,Before,Not recorded,FALSE,Before-1,0
+2,Night,1,6,190.45,Yes,Morning,50.1,1,Before,Not recorded,TRUE,Before-2,1
+3,Day,3,5,130.78,No,Evening,39.7,0,Before,Not recorded,FALSE,Before-3,0
+4,Day,2,5,175.23,No,Afternoon,48.9,3,Before,Not recorded,FALSE,Before-4,0
+5,Night,2,4,210.67,Yes,Evening,55.2,2,Before,Not recorded,TRUE,Before-5,1
+6,Day,1,5,167.89,No,Morning,43.4,1,Before,Not recorded,FALSE,Before-6,0
+7,Day,2,5,180.34,Yes,Afternoon,49.8,2,Before,Not recorded,TRUE,Before-7,1
+8,Night,3,4,140.56,No,Evening,37.6,0,Before,Not recorded,FALSE,Before-8,0
+9,Day,2,5,155.78,No,Morning,44.5,1,Before,Not recorded,FALSE,Before-9,0
+10,Night,1,6,200.12,Yes,Afternoon,52.3,3,Before,Not recorded,TRUE,Before-10,1
+11,Day,2,5,170.45,No,Evening,46.9,2,Before,Not recorded,FALSE,Before-11,0
+12,Night,3,5,135.67,No,Morning,38.2,0,Before,Not recorded,FALSE,Before-12,0
+13,Day,1,5,185.34,Yes,Afternoon,51,2,Before,Not recorded,TRUE,Before-13,1
+14,Day,2,5,160.89,No,Evening,45.6,1,Before,Not recorded,FALSE,Before-14,0
+15,Night,2,4,195.78,Yes,Morning,53.7,3,Before,Not recorded,TRUE,Before-15,1
+16,Day,3,5,125.45,No,Afternoon,36.9,0,Before,Not recorded,FALSE,Before-16,0
+17,Day,2,6,175.12,No,Evening,47.8,2,Before,Not recorded,FALSE,Before-17,0
+18,Night,1,5,210.34,Yes,Morning,54.1,3,Before,Not recorded,TRUE,Before-18,1
+19,Day,2,5,165.89,No,Afternoon,48,1,Before,Not recorded,FALSE,Before-19,0
+20,Night,3,4,130.56,No,Evening,39.4,0,Before,Not recorded,FALSE,Before-20,0
+21,Day,2,5,170.23,No,Morning,46.2,2,Before,Not recorded,FALSE,Before-21,0
+22,Night,1,6,185.67,Yes,Afternoon,50.8,3,Before,Not recorded,TRUE,Before-22,1
+23,Day,3,5,140.89,No,Evening,38.7,0,Before,Not recorded,FALSE,Before-23,0
+24,Day,2,5,160.34,No,Morning,44.9,1,Before,Not recorded,FALSE,Before-24,0
+25,Night,2,4,200.12,Yes,Afternoon,53.3,3,Before,Not recorded,TRUE,Before-25,1
+26,Day,1,5,175.45,No,Evening,49.1,2,Before,Not recorded,FALSE,Before-26,0
+27,Day,2,5,165.78,No,Morning,47.5,1,Before,Not recorded,FALSE,Before-27,0
+28,Night,3,4,135.23,No,Afternoon,37.8,0,Before,Not recorded,FALSE,Before-28,0
+29,Day,2,5,180.56,Yes,Evening,50.4,2,Before,Not recorded,TRUE,Before-29,1
+30,Night,1,6,210.89,Yes,Morning,55,3,Before,Not recorded,TRUE,Before-30,1
+31,Day,2,5,160.12,No,Afternoon,46.3,1,Before,Not recorded,FALSE,Before-31,0
+32,Day,3,5,130.45,No,Evening,39,0,Before,Not recorded,FALSE,Before-32,0
+33,Night,2,4,190.78,Yes,Morning,52.7,2,Before,Not recorded,TRUE,Before-33,1
+34,Day,1,5,175.34,No,Afternoon,48.6,2,Before,Not recorded,FALSE,Before-34,0
+35,Night,2,5,165.89,No,Evening,47.1,1,Before,Not recorded,FALSE,Before-35,0
+36,Day,3,5,140.12,No,Morning,38.4,0,Before,Not recorded,FALSE,Before-36,0
+37,Day,2,6,180.45,Yes,Afternoon,51.2,3,Before,Not recorded,TRUE,Before-37,1
+38,Night,1,5,210.67,Yes,Evening,54.3,3,Before,Not recorded,TRUE,Before-38,1
+39,Day,2,5,160.78,No,Morning,45.7,1,Before,Not recorded,FALSE,Before-39,0
+40,Night,3,4,130.34,No,Afternoon,37.5,0,Before,Not recorded,FALSE,Before-40,0
+41,Day,2,5,175.89,No,Evening,48.9,2,Before,Not recorded,FALSE,Before-41,0
+42,Night,1,6,190.12,Yes,Morning,53.1,3,Before,Not recorded,TRUE,Before-42,1
+43,Day,3,5,140.45,No,Afternoon,39.2,0,Before,Not recorded,FALSE,Before-43,0
+44,Day,2,5,165.78,No,Evening,46.8,1,Before,Not recorded,FALSE,Before-44,0
+45,Night,2,4,200.34,Yes,Morning,52.9,3,Before,Not recorded,TRUE,Before-45,1
+46,Day,1,5,175.12,No,Afternoon,50,2,Before,Not recorded,FALSE,Before-46,0
+47,Day,2,5,160.56,No,Evening,47.3,1,Before,Not recorded,FALSE,Before-47,0
+48,Night,3,4,135.89,No,Morning,38.1,0,Before,Not recorded,FALSE,Before-48,0
+49,Day,2,5,180.23,Yes,Afternoon,49.6,2,Before,Not recorded,TRUE,Before-49,1
+50,Night,1,6,210.45,Yes,Evening,54.8,3,Before,Not recorded,TRUE,Before-50,1
+51,Day,2,5,160.78,No,Morning,46.1,1,Before,Not recorded,FALSE,Before-51,0
+52,Day,3,5,130.12,No,Afternoon,39.5,0,Before,Not recorded,FALSE,Before-52,0
+53,Night,2,4,190.34,Yes,Evening,53,2,Before,Not recorded,TRUE,Before-53,1
+54,Day,1,5,175.67,No,Morning,48.3,2,Before,Not recorded,FALSE,Before-54,0
+55,Night,2,5,165.23,No,Afternoon,47.7,1,Before,Not recorded,FALSE,Before-55,0
+56,Day,3,5,140.89,No,Evening,38.9,0,Before,Not recorded,FALSE,Before-56,0
+57,Day,2,6,180.12,Yes,Morning,51.4,3,Before,Not recorded,TRUE,Before-57,1
+58,Night,1,5,210.56,Yes,Afternoon,54.7,3,Before,Not recorded,TRUE,Before-58,1
+59,Day,2,5,160.34,No,Evening,45.9,1,Before,Not recorded,FALSE,Before-59,0
+60,Night,3,4,130.78,No,Morning,37.7,0,Before,Not recorded,FALSE,Before-60,0
+61,Day,2,5,175.45,No,Afternoon,48.5,2,Before,Not recorded,FALSE,Before-61,0
+62,Night,1,6,190.89,Yes,Evening,52.5,3,Before,Not recorded,TRUE,Before-62,1
+63,Day,3,5,140.23,No,Morning,39.1,0,Before,Not recorded,FALSE,Before-63,0
+64,Day,2,5,165.56,No,Afternoon,46.7,1,Before,Not recorded,FALSE,Before-64,0
+65,Night,2,4,200.78,Yes,Evening,53.4,3,Before,Not recorded,TRUE,Before-65,1
+66,Day,1,5,175.34,No,Morning,50.2,2,Before,Not recorded,FALSE,Before-66,0
+67,Day,2,5,160.12,No,Afternoon,47.6,1,Before,Not recorded,FALSE,Before-67,0
+68,Night,3,4,135.45,No,Evening,38.3,0,Before,Not recorded,FALSE,Before-68,0
+69,Day,2,5,180.89,Yes,Morning,49.9,2,Before,Not recorded,TRUE,Before-69,1
+70,Night,1,6,210.23,Yes,Afternoon,55.1,3,Before,Not recorded,TRUE,Before-70,1
+71,Day,2,5,160.67,No,Evening,46.4,1,Before,Not recorded,FALSE,Before-71,0
+72,Day,3,5,130.34,No,Morning,39.3,0,Before,Not recorded,FALSE,Before-72,0
+73,Night,2,4,190.12,Yes,Afternoon,52.8,2,Before,Not recorded,TRUE,Before-73,1
+74,Day,1,5,175.89,No,Evening,48.7,2,Before,Not recorded,FALSE,Before-74,0
+75,Night,2,5,165.45,No,Morning,47,1,Before,Not recorded,FALSE,Before-75,0
+76,Day,3,5,140.78,No,Afternoon,38.6,0,Before,Not recorded,FALSE,Before-76,0
+77,Day,2,6,180.23,Yes,Evening,51.3,3,Before,Not recorded,TRUE,Before-77,1
+78,Night,1,5,210.12,Yes,Morning,54.5,3,Before,Not recorded,TRUE,Before-78,1
+79,Day,2,5,160.89,No,Afternoon,45.8,1,Before,Not recorded,FALSE,Before-79,0
+80,Night,3,4,130.45,No,Evening,37.9,0,Before,Not recorded,FALSE,Before-80,0
+81,Day,2,5,175.34,No,Morning,48.8,2,Before,Not recorded,FALSE,Before-81,0
+82,Night,1,6,190.56,Yes,Afternoon,53.2,3,Before,Not recorded,TRUE,Before-82,1
+83,Day,3,5,140.12,No,Evening,39,0,Before,Not recorded,FALSE,Before-83,0
+84,Day,2,5,165.23,No,Morning,46.9,1,Before,Not recorded,FALSE,Before-84,0
+85,Night,2,4,200.45,Yes,Afternoon,53.1,3,Before,Not recorded,TRUE,Before-85,1
+86,Day,1,5,175.78,No,Evening,50.1,2,Before,Not recorded,FALSE,Before-86,0
+87,Day,2,5,160.34,No,Morning,47.4,1,Before,Not recorded,FALSE,Before-87,0
+88,Night,3,4,135.12,No,Afternoon,38.2,0,Before,Not recorded,FALSE,Before-88,0
+89,Day,2,5,180.56,Yes,Evening,49.7,2,Before,Not recorded,TRUE,Before-89,1
+90,Night,1,6,210.78,Yes,Morning,54.9,3,Before,Not recorded,TRUE,Before-90,1
+91,Day,2,5,160.12,No,Afternoon,46,1,Before,Not recorded,FALSE,Before-91,0
+92,Day,3,5,130.67,No,Evening,39.4,0,Before,Not recorded,FALSE,Before-92,0
+93,Night,2,4,190.34,Yes,Morning,52.6,2,Before,Not recorded,TRUE,Before-93,1
+94,Day,1,5,175.45,No,Afternoon,48.4,2,Before,Not recorded,FALSE,Before-94,0
+95,Night,2,5,165.23,No,Evening,47.2,1,Before,Not recorded,FALSE,Before-95,0
+96,Day,3,5,140.89,No,Morning,38.7,0,Before,Not recorded,FALSE,Before-96,0
+97,Day,2,6,180.12,Yes,Afternoon,51.5,3,Before,Not recorded,TRUE,Before-97,1
+98,Night,1,5,210.56,Yes,Evening,54.6,3,Before,Not recorded,TRUE,Before-98,1
+99,Day,2,5,160.34,No,Morning,45.9,1,Before,Not recorded,FALSE,Before-99,0
+100,Night,3,4,130.78,No,Afternoon,37.8,0,Before,Not recorded,FALSE,Before-100,0
+101,Day,2,5,175.45,No,Evening,48.5,2,Before,Not recorded,FALSE,Before-101,0
+102,Night,1,6,190.89,Yes,Morning,52.4,3,Before,Not recorded,TRUE,Before-102,1
+103,Day,3,5,140.23,No,Afternoon,39.1,0,Before,Not recorded,FALSE,Before-103,0
+104,Day,2,5,165.56,No,Evening,46.7,1,Before,Not recorded,FALSE,Before-104,0
+105,Night,2,4,200.78,Yes,Morning,53.4,3,Before,Not recorded,TRUE,Before-105,1
+106,Day,1,5,175.34,No,Afternoon,50.2,2,Before,Not recorded,FALSE,Before-106,0
+107,Day,2,5,160.12,No,Evening,47.6,1,Before,Not recorded,FALSE,Before-107,0
+108,Night,3,4,135.45,No,Morning,38.3,0,Before,Not recorded,FALSE,Before-108,0
+109,Day,2,5,180.89,Yes,Afternoon,49.9,2,Before,Not recorded,TRUE,Before-109,1
+110,Night,1,6,210.23,Yes,Evening,55.1,3,Before,Not recorded,TRUE,Before-110,1
+111,Day,2,5,160.67,No,Morning,46.4,1,Before,Not recorded,FALSE,Before-111,0
+112,Day,3,5,130.34,No,Afternoon,39.3,0,Before,Not recorded,FALSE,Before-112,0
+113,Night,2,4,190.12,Yes,Evening,52.8,2,Before,Not recorded,TRUE,Before-113,1
+114,Day,1,5,175.89,No,Morning,48.7,2,Before,Not recorded,FALSE,Before-114,0
+115,Night,2,5,165.45,No,Afternoon,47,1,Before,Not recorded,FALSE,Before-115,0
+116,Day,3,5,140.78,No,Evening,38.6,0,Before,Not recorded,FALSE,Before-116,0
+117,Day,2,6,180.23,Yes,Morning,51.3,3,Before,Not recorded,TRUE,Before-117,1
+118,Night,1,5,210.12,Yes,Afternoon,54.5,3,Before,Not recorded,TRUE,Before-118,1
+119,Day,2,5,160.89,No,Evening,45.8,1,Before,Not recorded,FALSE,Before-119,0
+120,Night,3,4,130.45,No,Morning,37.9,0,Before,Not recorded,FALSE,Before-120,0
+121,Day,2,5,175.34,No,Afternoon,48.8,2,Before,Not recorded,FALSE,Before-121,0
+122,Night,1,6,190.56,Yes,Evening,53.2,3,Before,Not recorded,TRUE,Before-122,1
+123,Day,3,5,140.12,No,Morning,39,0,Before,Not recorded,FALSE,Before-123,0
+124,Day,2,5,165.23,No,Afternoon,46.9,1,Before,Not recorded,FALSE,Before-124,0
+125,Night,2,4,200.45,Yes,Evening,53.1,3,Before,Not recorded,TRUE,Before-125,1
+126,Day,1,5,175.78,No,Morning,50.1,2,Before,Not recorded,FALSE,Before-126,0
+127,Day,2,5,160.34,No,Afternoon,47.4,1,Before,Not recorded,FALSE,Before-127,0
+128,Night,3,4,135.12,No,Evening,38.2,0,Before,Not recorded,FALSE,Before-128,0
+129,Day,2,5,180.56,Yes,Morning,49.7,2,Before,Not recorded,TRUE,Before-129,1
+130,Night,1,6,210.78,Yes,Afternoon,54.9,3,Before,Not recorded,TRUE,Before-130,1
+131,Day,2,5,160.12,No,Evening,46,1,Before,Not recorded,FALSE,Before-131,0
+132,Day,3,5,130.67,No,Morning,39.4,0,Before,Not recorded,FALSE,Before-132,0
+133,Night,2,4,190.34,Yes,Afternoon,52.6,2,Before,Not recorded,TRUE,Before-133,1
+134,Day,1,5,175.45,No,Evening,48.4,2,Before,Not recorded,FALSE,Before-134,0
+135,Night,2,5,165.23,No,Morning,47.2,1,Before,Not recorded,FALSE,Before-135,0
+136,Day,3,5,140.89,No,Afternoon,38.7,0,Before,Not recorded,FALSE,Before-136,0
+137,Day,2,6,180.12,Yes,Evening,51.5,3,Before,Not recorded,TRUE,Before-137,1
+138,Night,1,5,210.56,Yes,Morning,54.6,3,Before,Not recorded,TRUE,Before-138,1
+139,Day,2,5,160.34,No,Afternoon,45.9,1,Before,Not recorded,FALSE,Before-139,0
+140,Night,3,4,130.78,No,Evening,37.8,0,Before,Not recorded,FALSE,Before-140,0
+141,Day,2,5,175.45,No,Morning,48.5,2,Before,Not recorded,FALSE,Before-141,0
+142,Night,1,6,190.89,Yes,Afternoon,52.4,3,Before,Not recorded,TRUE,Before-142,1
+143,Day,3,5,140.23,No,Evening,39.1,0,Before,Not recorded,FALSE,Before-143,0
+144,Day,2,5,165.56,No,Morning,46.7,1,Before,Not recorded,FALSE,Before-144,0
+145,Night,2,4,200.78,Yes,Afternoon,53.4,3,Before,Not recorded,TRUE,Before-145,1
+146,Day,1,5,175.34,No,Evening,50.2,2,Before,Not recorded,FALSE,Before-146,0
+147,Day,2,5,160.12,No,Morning,47.6,1,Before,Not recorded,FALSE,Before-147,0
+148,Night,3,4,135.45,No,Afternoon,38.3,0,Before,Not recorded,FALSE,Before-148,0
+149,Day,2,5,180.89,Yes,Evening,49.9,2,Before,Not recorded,TRUE,Before-149,1
+150,Night,1,6,210.23,Yes,Morning,55.1,3,Before,Not recorded,TRUE,Before-150,1
+151,Day,2,5,160.67,No,Afternoon,46.4,1,Before,Not recorded,FALSE,Before-151,0
+152,Day,3,5,130.34,No,Evening,39.3,0,Before,Not recorded,FALSE,Before-152,0
+153,Night,2,4,190.12,Yes,Morning,52.8,2,Before,Not recorded,TRUE,Before-153,1
+154,Day,1,5,175.89,No,Afternoon,48.7,2,Before,Not recorded,FALSE,Before-154,0
+155,Night,2,5,165.45,No,Evening,47,1,Before,Not recorded,FALSE,Before-155,0
+156,Day,3,5,140.78,No,Morning,38.6,0,Before,Not recorded,FALSE,Before-156,0
+157,Day,2,6,180.23,Yes,Afternoon,51.3,3,Before,Not recorded,TRUE,Before-157,1
+158,Night,1,5,210.12,Yes,Evening,54.5,3,Before,Not recorded,TRUE,Before-158,1
+159,Day,2,5,160.89,No,Morning,45.8,1,Before,Not recorded,FALSE,Before-159,0
+160,Night,3,4,130.45,No,Afternoon,37.9,0,Before,Not recorded,FALSE,Before-160,0
+161,Day,2,5,175.34,No,Evening,48.8,2,Before,Not recorded,FALSE,Before-161,0
+162,Night,1,6,190.56,Yes,Morning,53.2,3,Before,Not recorded,TRUE,Before-162,1
+163,Day,3,5,140.12,No,Afternoon,39,0,Before,Not recorded,FALSE,Before-163,0
+164,Day,2,5,165.23,No,Evening,46.9,1,Before,Not recorded,FALSE,Before-164,0
+165,Night,2,4,200.45,Yes,Morning,53.1,3,Before,Not recorded,TRUE,Before-165,1
+166,Day,1,5,175.78,No,Afternoon,50.1,2,Before,Not recorded,FALSE,Before-166,0
+167,Day,2,5,160.34,No,Evening,47.4,1,Before,Not recorded,FALSE,Before-167,0
+168,Night,3,4,135.12,No,Morning,38.2,0,Before,Not recorded,FALSE,Before-168,0
+169,Day,2,5,180.56,Yes,Afternoon,49.7,2,Before,Not recorded,TRUE,Before-169,1
+170,Night,1,6,210.78,Yes,Evening,54.9,3,Before,Not recorded,TRUE,Before-170,1
+171,Day,2,5,160.12,No,Morning,46,1,Before,Not recorded,FALSE,Before-171,0
+172,Day,3,5,130.67,No,Afternoon,39.4,0,Before,Not recorded,FALSE,Before-172,0
+173,Night,2,4,190.34,Yes,Evening,52.6,2,Before,Not recorded,TRUE,Before-173,1
+174,Day,1,5,175.45,No,Morning,48.4,2,Before,Not recorded,FALSE,Before-174,0
+175,Night,2,5,165.23,No,Afternoon,47.2,1,Before,Not recorded,FALSE,Before-175,0
+176,Day,3,5,140.89,No,Evening,38.7,0,Before,Not recorded,FALSE,Before-176,0
+177,Day,2,6,180.12,Yes,Morning,51.5,3,Before,Not recorded,TRUE,Before-177,1
+178,Night,1,5,210.56,Yes,Afternoon,54.6,3,Before,Not recorded,TRUE,Before-178,1
+179,Day,2,5,160.34,No,Evening,45.9,1,Before,Not recorded,FALSE,Before-179,0
+180,Night,3,4,130.78,No,Morning,37.8,0,Before,Not recorded,FALSE,Before-180,0
+181,Day,2,5,175.45,No,Afternoon,48.5,2,Before,Not recorded,FALSE,Before-181,0
+182,Night,1,6,190.89,Yes,Evening,52.4,3,Before,Not recorded,TRUE,Before-182,1
+183,Day,3,5,140.23,No,Morning,39.1,0,Before,Not recorded,FALSE,Before-183,0
+184,Day,2,5,165.56,No,Afternoon,46.7,1,Before,Not recorded,FALSE,Before-184,0
+185,Night,2,4,200.78,Yes,Evening,53.4,3,Before,Not recorded,TRUE,Before-185,1
+186,Day,1,5,175.34,No,Morning,50.2,2,Before,Not recorded,FALSE,Before-186,0
+187,Day,2,5,160.12,No,Afternoon,47.6,1,Before,Not recorded,FALSE,Before-187,0
+188,Night,3,4,135.45,No,Evening,38.3,0,Before,Not recorded,FALSE,Before-188,0
+189,Day,2,5,180.89,Yes,Morning,49.9,2,Before,Not recorded,TRUE,Before-189,1
+190,Night,1,6,210.23,Yes,Afternoon,55.1,3,Before,Not recorded,TRUE,Before-190,1
+191,Day,2,5,160.67,No,Evening,46.4,1,Before,Not recorded,FALSE,Before-191,0
+192,Day,3,5,130.34,No,Morning,39.3,0,Before,Not recorded,FALSE,Before-192,0
+193,Night,2,4,190.12,Yes,Afternoon,52.8,2,Before,Not recorded,TRUE,Before-193,1
+194,Day,1,5,175.89,No,Evening,48.7,2,Before,Not recorded,FALSE,Before-194,0
+195,Night,2,5,165.45,No,Morning,47,1,Before,Not recorded,FALSE,Before-195,0
+196,Day,3,5,140.78,No,Afternoon,38.6,0,Before,Not recorded,FALSE,Before-196,0
+197,Day,2,6,180.23,Yes,Evening,51.3,3,Before,Not recorded,TRUE,Before-197,1
+198,Night,1,5,210.12,Yes,Morning,54.5,3,Before,Not recorded,TRUE,Before-198,1
+199,Day,2,5,160.89,No,Afternoon,45.8,1,Before,Not recorded,FALSE,Before-199,0
+200,Night,3,4,130.45,No,Evening,37.9,0,Before,Not recorded,FALSE,Before-200,0
+201,Day,2,5,175.34,No,Morning,48.8,2,Before,Not recorded,FALSE,Before-201,0
+202,Night,1,6,190.56,Yes,Afternoon,53.2,3,Before,Not recorded,TRUE,Before-202,1
+203,Day,3,5,140.12,No,Evening,39,0,Before,Not recorded,FALSE,Before-203,0
+204,Day,2,5,165.23,No,Morning,46.9,1,Before,Not recorded,FALSE,Before-204,0
+205,Night,2,4,200.45,Yes,Afternoon,53.1,3,Before,Not recorded,TRUE,Before-205,1
+206,Day,1,5,175.78,No,Evening,50.1,2,Before,Not recorded,FALSE,Before-206,0
+207,Day,2,5,160.34,No,Morning,47.4,1,Before,Not recorded,FALSE,Before-207,0
+208,Night,3,4,135.12,No,Afternoon,38.2,0,Before,Not recorded,FALSE,Before-208,0
+209,Day,2,5,180.56,Yes,Evening,49.7,2,Before,Not recorded,TRUE,Before-209,1
+210,Night,1,6,210.78,Yes,Morning,54.9,3,Before,Not recorded,TRUE,Before-210,1
+211,Day,2,5,160.12,No,Afternoon,46,1,Before,Not recorded,FALSE,Before-211,0
+212,Day,3,5,130.67,No,Evening,39.4,0,Before,Not recorded,FALSE,Before-212,0
+213,Night,2,4,190.34,Yes,Morning,52.6,2,Before,Not recorded,TRUE,Before-213,1
+214,Day,1,5,175.45,No,Afternoon,48.4,2,Before,Not recorded,FALSE,Before-214,0
+215,Night,2,5,165.23,No,Evening,47.2,1,Before,Not recorded,FALSE,Before-215,0
+216,Day,3,5,140.89,No,Morning,38.7,0,Before,Not recorded,FALSE,Before-216,0
+217,Day,2,6,180.12,Yes,Afternoon,51.5,3,Before,Not recorded,TRUE,Before-217,1
+218,Night,1,5,210.56,Yes,Evening,54.6,3,Before,Not recorded,TRUE,Before-218,1
+219,Day,2,5,160.34,No,Morning,45.9,1,Before,Not recorded,FALSE,Before-219,0
+220,Night,3,4,130.78,No,Afternoon,37.8,0,Before,Not recorded,FALSE,Before-220,0
+221,Day,2,5,175.45,No,Evening,48.5,2,Before,Not recorded,FALSE,Before-221,0
+222,Night,1,6,190.89,Yes,Morning,52.4,3,Before,Not recorded,TRUE,Before-222,1
+223,Day,3,5,140.23,No,Afternoon,39.1,0,Before,Not recorded,FALSE,Before-223,0
+224,Day,2,5,165.56,No,Evening,46.7,1,Before,Not recorded,FALSE,Before-224,0
+225,Night,2,4,200.78,Yes,Morning,53.4,3,Before,Not recorded,TRUE,Before-225,1
+226,Day,1,5,175.34,No,Afternoon,50.2,2,Before,Not recorded,FALSE,Before-226,0
+227,Day,2,5,160.12,No,Evening,47.6,1,Before,Not recorded,FALSE,Before-227,0
+228,Night,3,4,135.45,No,Morning,38.3,0,Before,Not recorded,FALSE,Before-228,0
+229,Day,2,5,180.89,Yes,Afternoon,49.9,2,Before,Not recorded,TRUE,Before-229,1
+230,Night,1,6,210.23,Yes,Evening,55.1,3,Before,Not recorded,TRUE,Before-230,1
+231,Day,2,5,160.67,No,Morning,46.4,1,Before,Not recorded,FALSE,Before-231,0
+232,Day,3,5,130.34,No,Afternoon,39.3,0,Before,Not recorded,FALSE,Before-232,0
+233,Night,2,4,190.12,Yes,Evening,52.8,2,Before,Not recorded,TRUE,Before-233,1
+234,Day,1,5,175.89,No,Morning,48.7,2,Before,Not recorded,FALSE,Before-234,0
+235,Night,2,5,165.45,No,Afternoon,47,1,Before,Not recorded,FALSE,Before-235,0
+236,Day,3,5,140.78,No,Evening,38.6,0,Before,Not recorded,FALSE,Before-236,0
+237,Day,2,6,180.23,Yes,Morning,51.3,3,Before,Not recorded,TRUE,Before-237,1
+238,Night,1,5,210.12,Yes,Afternoon,54.5,3,Before,Not recorded,TRUE,Before-238,1
+239,Day,2,5,160.89,No,Evening,45.8,1,Before,Not recorded,FALSE,Before-239,0
+240,Night,3,4,130.45,No,Morning,37.9,0,Before,Not recorded,FALSE,Before-240,0
+241,Day,2,5,175.34,No,Afternoon,48.8,2,Before,Not recorded,FALSE,Before-241,0
+242,Night,1,6,190.56,Yes,Evening,53.2,3,Before,Not recorded,TRUE,Before-242,1
+243,Day,3,5,140.12,No,Morning,39,0,Before,Not recorded,FALSE,Before-243,0
+244,Day,2,5,165.23,No,Afternoon,46.9,1,Before,Not recorded,FALSE,Before-244,0
+245,Night,2,4,200.45,Yes,Evening,53.1,3,Before,Not recorded,TRUE,Before-245,1
+246,Day,1,5,175.78,No,Morning,50.1,2,Before,Not recorded,FALSE,Before-246,0
+247,Day,2,5,160.34,No,Afternoon,47.4,1,Before,Not recorded,FALSE,Before-247,0
+248,Night,3,4,135.12,No,Evening,38.2,0,Before,Not recorded,FALSE,Before-248,0
+249,Day,2,5,180.56,Yes,Morning,49.7,2,Before,Not recorded,TRUE,Before-249,1
+250,Night,1,6,210.78,Yes,Afternoon,54.9,3,Before,Not recorded,TRUE,Before-250,1
+1,Day,2,5,140.0572534,No,Afternoon,45.3,2,After,No,FALSE,After-1,0
+2,Night,1,6,124.6200136,No,Morning,50.1,1,After,No,FALSE,After-2,0
+3,Day,3,5,143.727658,No,Evening,39.7,0,After,No,FALSE,After-3,0
+4,Day,2,5,165.0084648,No,Afternoon,48.9,3,After,Yes,FALSE,After-4,0
+5,Night,2,4,122.2888123,No,Evening,55.2,2,After,No,FALSE,After-5,0
+6,Day,1,5,122.2892114,No,Morning,43.4,1,After,No,FALSE,After-6,0
+7,Day,2,5,166.3743534,No,Afternoon,49.8,2,After,Yes,FALSE,After-7,0
+8,Night,3,4,146.6388602,No,Evening,37.6,0,After,No,FALSE,After-8,0
+9,Day,2,5,116.5678199,No,Morning,44.5,1,After,No,FALSE,After-9,0
+10,Night,1,6,141.171833,No,Afternoon,52.3,3,After,No,FALSE,After-10,0
+11,Day,2,5,116.7150669,Yes,Evening,46.9,2,After,No,TRUE,After-11,1
+12,Night,3,5,116.6588573,Yes,Morning,38.2,0,After,No,TRUE,After-12,1
+13,Day,1,5,133.8638687,Yes,Afternoon,51,2,After,No,TRUE,After-13,1
+14,Day,2,5,81.46682219,Yes,Evening,45.6,1,After,No,TRUE,After-14,1
+15,Night,2,4,86.04618344,No,Morning,53.7,3,After,No,FALSE,After-15,0
+16,Day,3,5,114.3113989,No,Afternoon,36.9,0,After,No,FALSE,After-16,0
+17,Day,2,6,103.3580359,No,Evening,47.8,2,After,No,FALSE,After-17,0
+18,Night,1,5,135.6212225,Yes,Morning,54.1,3,After,No,TRUE,After-18,1
+19,Day,2,5,105.906046,No,Afternoon,48,1,After,No,FALSE,After-19,0
+20,Night,3,4,93.64628275,No,Evening,39.4,0,After,No,FALSE,After-20,0
+21,Day,2,5,163.613448,No,Morning,46.2,2,After,Yes,FALSE,After-21,0
+22,Night,1,6,122.492471,No,Afternoon,50.8,3,After,No,FALSE,After-22,0
+23,Day,3,5,129.6231255,No,Evening,38.7,0,After,No,FALSE,After-23,0
+24,Day,2,5,93.34373942,No,Morning,44.9,1,After,No,FALSE,After-24,0
+25,Night,2,4,114.7466904,No,Afternoon,53.3,3,After,No,FALSE,After-25,0
+26,Day,1,5,130.6781055,Yes,Evening,49.1,2,After,No,TRUE,After-26,1
+27,Day,2,5,99.99910783,No,Morning,47.5,1,After,No,FALSE,After-27,0
+28,Night,3,4,137.1151771,No,Afternoon,37.8,0,After,No,FALSE,After-28,0
+29,Day,2,5,113.379027,No,Evening,50.4,2,After,No,FALSE,After-29,0
+30,Night,1,6,120.889923,No,Morning,55,3,After,No,FALSE,After-30,0
+31,Day,2,5,113.3530643,No,Afternoon,46.3,1,After,No,FALSE,After-31,0
+32,Day,3,5,173.0129654,No,Evening,39,0,After,Yes,FALSE,After-32,0
+33,Night,2,4,127.6532808,Yes,Morning,52.7,2,After,No,TRUE,After-33,1
+34,Day,1,5,102.2669432,No,Afternoon,48.6,2,After,No,FALSE,After-34,0
+35,Night,2,5,147.978668,Yes,Evening,47.1,1,After,No,TRUE,After-35,1
+36,Day,3,5,98.30095207,No,Morning,38.4,0,After,No,FALSE,After-36,0
+37,Day,2,6,133.0591922,No,Afternoon,51.2,3,After,No,FALSE,After-37,0
+38,Night,1,5,80.33901748,No,Evening,54.3,3,After,No,FALSE,After-38,0
+39,Day,2,5,95.69130391,No,Morning,45.7,1,After,No,FALSE,After-39,0
+40,Night,3,4,132.7673976,No,Afternoon,37.5,0,After,No,FALSE,After-40,0
+41,Day,2,5,145.9346028,No,Evening,48.9,2,After,No,FALSE,After-41,0
+42,Night,1,6,132.1476272,No,Morning,53.1,3,After,No,FALSE,After-42,0
+43,Day,3,5,125.1698416,No,Afternoon,39.2,0,After,No,FALSE,After-43,0
+44,Day,2,5,120.6611537,No,Evening,46.8,1,After,No,FALSE,After-44,0
+45,Night,2,4,92.03642087,No,Morning,52.9,3,After,No,FALSE,After-45,0
+46,Day,1,5,110.4809693,No,Afternoon,50,2,After,No,FALSE,After-46,0
+47,Day,2,5,116.7826264,No,Evening,47.3,1,After,No,FALSE,After-47,0
+48,Night,3,4,153.68158,Yes,Morning,38.1,0,After,Yes,TRUE,After-48,1
+49,Day,2,5,136.3352727,Yes,Afternoon,49.6,2,After,No,TRUE,After-49,1
+50,Night,1,6,85.11937492,Yes,Evening,54.8,3,After,No,TRUE,After-50,1
+51,Day,2,5,135.8603653,Yes,Morning,46.1,1,After,No,TRUE,After-51,1
+52,Day,3,5,118.6195134,No,Afternoon,39.5,0,After,No,FALSE,After-52,0
+53,Night,2,4,111.52447,Yes,Evening,53,2,After,No,TRUE,After-53,1
+54,Day,1,5,142.8521484,No,Morning,48.3,2,After,No,FALSE,After-54,0
+55,Night,2,5,153.0464995,No,Afternoon,47.7,1,After,Yes,FALSE,After-55,0
+56,Day,3,5,150.6221773,Yes,Evening,38.9,0,After,Yes,TRUE,After-56,1
+57,Day,2,6,107.5788323,No,Morning,51.4,3,After,No,FALSE,After-57,0
+58,Night,1,5,120.46402,No,Afternoon,54.7,3,After,No,FALSE,After-58,0
+59,Day,2,5,136.0349084,Yes,Evening,45.9,1,After,No,TRUE,After-59,1
+60,Night,3,4,151.6983234,No,Morning,37.7,0,After,Yes,FALSE,After-60,0
+61,Day,2,5,116.3320026,No,Afternoon,48.5,2,After,No,FALSE,After-61,0
+62,Night,1,6,123.4677809,No,Evening,52.5,3,After,No,FALSE,After-62,0
+63,Day,3,5,101.0848227,No,Morning,39.1,0,After,No,FALSE,After-63,0
+64,Day,2,5,98.89991362,No,Afternoon,46.7,1,After,No,FALSE,After-64,0
+65,Night,2,4,147.7350895,No,Evening,53.4,3,After,No,FALSE,After-65,0
+66,Day,1,5,160.9535641,No,Morning,50.2,2,After,Yes,FALSE,After-66,0
+67,Day,2,5,126.2307481,No,Afternoon,47.6,1,After,No,FALSE,After-67,0
+68,Night,3,4,152.3787463,No,Evening,38.3,0,After,Yes,FALSE,After-68,0
+69,Day,2,5,136.7733098,No,Morning,49.9,2,After,No,FALSE,After-69,0
+70,Night,1,6,112.2976283,No,Afternoon,55.1,3,After,No,FALSE,After-70,0
+71,Day,2,5,136.7674649,No,Evening,46.4,1,After,No,FALSE,After-71,0
+72,Day,3,5,165.3732995,No,Morning,39.3,0,After,Yes,FALSE,After-72,0
+73,Night,2,4,127.1104352,No,Afternoon,52.8,2,After,No,FALSE,After-73,0
+74,Day,1,5,166.0201562,No,Evening,48.7,2,After,Yes,FALSE,After-74,0
+75,Night,2,5,64.29164501,No,Morning,47,1,After,No,FALSE,After-75,0
+76,Day,3,5,147.9630501,No,Afternoon,38.6,0,After,No,FALSE,After-76,0
+77,Day,2,6,130.0976572,No,Evening,51.3,3,After,No,FALSE,After-77,0
+78,Night,1,5,120.7121188,No,Morning,54.5,3,After,No,FALSE,After-78,0
+79,Day,2,5,130.2122542,Yes,Afternoon,45.8,1,After,No,TRUE,After-79,1
+80,Night,3,4,79.66075774,No,Evening,37.9,0,After,No,FALSE,After-80,0
+81,Day,2,5,122.6408781,No,Morning,48.8,2,After,No,FALSE,After-81,0
+82,Night,1,6,136.6633381,No,Afternoon,53.2,3,After,No,FALSE,After-82,0
+83,Day,3,5,163.9111483,No,Evening,39,0,After,Yes,FALSE,After-83,0
+84,Day,2,5,115.381523,No,Morning,46.9,1,After,No,FALSE,After-84,0
+85,Night,2,4,108.325775,No,Afternoon,53.1,3,After,No,FALSE,After-85,0
+86,Day,1,5,115.7829821,Yes,Evening,50.1,2,After,No,TRUE,After-86,1
+87,Day,2,5,150.2361603,No,Morning,47.4,1,After,Yes,FALSE,After-87,0
+88,Night,3,4,135.9738302,Yes,Afternoon,38.2,0,After,No,TRUE,After-88,1
+89,Day,2,5,115.102185,No,Evening,49.7,2,After,No,FALSE,After-89,0
+90,Night,1,6,140.4596875,No,Morning,54.9,3,After,No,FALSE,After-90,0
+91,Day,2,5,130.3415126,No,Afternoon,46,1,After,No,FALSE,After-91,0
+92,Day,3,5,151.5305711,No,Evening,39.4,0,After,Yes,FALSE,After-92,0
+93,Night,2,4,110.9134969,No,Morning,52.6,2,After,No,FALSE,After-93,0
+94,Day,1,5,120.0154795,No,Afternoon,48.4,2,After,No,FALSE,After-94,0
+95,Night,2,5,118.4487044,No,Evening,47.2,1,After,No,FALSE,After-95,0
+96,Day,3,5,92.40126366,No,Morning,38.7,0,After,No,FALSE,After-96,0
+97,Day,2,6,135.1805277,No,Afternoon,51.5,3,After,No,FALSE,After-97,0
+98,Night,1,5,134.328047,No,Evening,54.6,3,After,No,FALSE,After-98,0
+99,Day,2,5,128.1057332,No,Morning,45.9,1,After,No,FALSE,After-99,0
+100,Night,3,4,122.278267,No,Afternoon,37.8,0,After,No,FALSE,After-100,0
+101,Day,2,5,93.57171858,Yes,Evening,48.5,2,After,No,TRUE,After-101,1
+102,Night,1,6,117.7549247,No,Morning,52.4,3,After,No,FALSE,After-102,0
+103,Day,3,5,119.6495347,Yes,Afternoon,39.1,0,After,No,TRUE,After-103,1
+104,Day,2,5,108.476903,No,Evening,46.7,1,After,No,FALSE,After-104,0
+105,Night,2,4,124.06033,No,Morning,53.4,3,After,No,FALSE,After-105,0
+106,Day,1,5,137.8044754,No,Afternoon,50.2,2,After,No,FALSE,After-106,0
+107,Day,2,5,173.8373108,No,Evening,47.6,1,After,Yes,FALSE,After-107,0
+108,Night,3,4,132.2256555,Yes,Morning,38.3,0,After,No,TRUE,After-108,1
+109,Day,2,5,134.2428383,No,Afternoon,49.9,2,After,No,FALSE,After-109,0
+110,Night,1,6,126.1715304,No,Evening,55.1,3,After,No,FALSE,After-110,0
+111,Day,2,5,81.33332879,No,Morning,46.4,1,After,No,FALSE,After-111,0
+112,Day,3,5,127.3368273,Yes,Afternoon,39.3,0,After,No,TRUE,After-112,1
+113,Night,2,4,129.4457008,Yes,Evening,52.8,2,After,No,TRUE,After-113,1
+114,Day,1,5,187.8663775,No,Morning,48.7,2,After,Yes,FALSE,After-114,0
+115,Night,2,5,123.3048459,Yes,Afternoon,47,1,After,No,TRUE,After-115,1
+116,Day,3,5,135.3124675,No,Evening,38.6,0,After,No,FALSE,After-116,0
+117,Day,2,6,127.1375247,No,Morning,51.3,3,After,No,FALSE,After-117,0
+118,Night,1,5,99.56917316,Yes,Afternoon,54.5,3,After,No,TRUE,After-118,1
+119,Day,2,5,155.7650846,Yes,Evening,45.8,1,After,Yes,TRUE,After-119,1
+120,Night,3,4,146.2619916,No,Morning,37.9,0,After,No,FALSE,After-120,0
+121,Day,2,5,147.2125425,No,Afternoon,48.8,2,After,No,FALSE,After-121,0
+122,Night,1,6,105.8729003,No,Evening,53.2,3,After,No,FALSE,After-122,0
+123,Day,3,5,162.0853657,No,Morning,39,0,After,Yes,FALSE,After-123,0
+124,Day,2,5,93.90040143,No,Afternoon,46.9,1,After,No,FALSE,After-124,0
+125,Night,2,4,142.248758,No,Evening,53.1,3,After,No,FALSE,After-125,0
+126,Day,1,5,181.2345456,No,Morning,50.1,2,After,Yes,FALSE,After-126,0
+127,Day,2,5,103.9000545,No,Afternoon,47.4,1,After,No,FALSE,After-127,0
+128,Night,3,4,114.2139051,Yes,Evening,38.2,0,After,No,TRUE,After-128,1
+129,Day,2,5,130.4040858,No,Morning,49.7,2,After,No,FALSE,After-129,0
+130,Night,1,6,115.7412002,No,Afternoon,54.9,3,After,No,FALSE,After-130,0
+131,Day,2,5,90.28255865,No,Evening,46,1,After,No,FALSE,After-131,0
+132,Day,3,5,129.6482823,No,Morning,39.4,0,After,No,FALSE,After-132,0
+133,Night,2,4,102.155286,Yes,Afternoon,52.6,2,After,No,TRUE,After-133,1
+134,Day,1,5,139.4951311,No,Evening,48.4,2,After,No,FALSE,After-134,0
+135,Night,2,5,105.6288917,Yes,Morning,47.2,1,After,No,TRUE,After-135,1
+136,Day,3,5,165.6625531,No,Afternoon,38.7,0,After,Yes,FALSE,After-136,0
+137,Day,2,6,108.9394033,Yes,Evening,51.5,3,After,No,TRUE,After-137,1
+138,Night,1,5,120.1516389,Yes,Morning,54.6,3,After,No,TRUE,After-138,1
+139,Day,2,5,147.7591917,Yes,Afternoon,45.9,1,After,No,TRUE,After-139,1
+140,Night,3,4,98.05733525,No,Evening,37.8,0,After,No,FALSE,After-140,0
+141,Day,2,5,133.511296,No,Morning,48.5,2,After,No,FALSE,After-141,0
+142,Night,1,6,159.7599388,No,Afternoon,52.4,3,After,Yes,FALSE,After-142,0
+143,Day,3,5,88.90118748,No,Evening,39.1,0,After,No,FALSE,After-143,0
+144,Day,2,5,132.4701325,No,Morning,46.7,1,After,No,FALSE,After-144,0
+145,Night,2,4,134.2995424,No,Afternoon,53.4,3,After,No,FALSE,After-145,0
+146,Day,1,5,146.9886566,No,Evening,50.2,2,After,No,FALSE,After-146,0
+147,Day,2,5,97.90936624,No,Morning,47.6,1,After,No,FALSE,After-147,0
+148,Night,3,4,95.87921762,No,Afternoon,38.3,0,After,No,FALSE,After-148,0
+149,Day,2,5,140.6705681,Yes,Evening,49.9,2,After,No,TRUE,After-149,1
+150,Night,1,6,135.2015424,No,Morning,55.1,3,After,No,FALSE,After-150,0
+151,Day,2,5,134.0712593,Yes,Afternoon,46.4,1,After,No,TRUE,After-151,1
+152,Day,3,5,136.4040722,No,Evening,39.3,0,After,No,FALSE,After-152,0
+153,Night,2,4,111.4490383,No,Morning,52.8,2,After,No,FALSE,After-153,0
+154,Day,1,5,133.6278393,No,Afternoon,48.7,2,After,No,FALSE,After-154,0
+155,Night,2,5,135.1064312,Yes,Evening,47,1,After,No,TRUE,After-155,1
+156,Day,3,5,110.614507,No,Morning,38.6,0,After,No,FALSE,After-156,0
+157,Day,2,6,173.3410805,No,Afternoon,51.3,3,After,Yes,FALSE,After-157,0
+158,Night,1,5,139.5009778,No,Evening,54.5,3,After,No,FALSE,After-158,0
+159,Day,2,5,99.01911568,No,Morning,45.8,1,After,No,FALSE,After-159,0
+160,Night,3,4,143.9431806,No,Afternoon,37.9,0,After,No,FALSE,After-160,0
+161,Day,2,5,104.285504,No,Evening,48.8,2,After,No,FALSE,After-161,0
+162,Night,1,6,147.1165769,No,Morning,53.2,3,After,No,FALSE,After-162,0
+163,Day,3,5,156.1485432,No,Afternoon,39,0,After,Yes,FALSE,After-163,0
+164,Day,2,5,108.0294498,No,Evening,46.9,1,After,No,FALSE,After-164,0
+165,Night,2,4,151.4024775,Yes,Morning,53.1,3,After,Yes,TRUE,After-165,1
+166,Day,1,5,138.016716,No,Afternoon,50.1,2,After,No,FALSE,After-166,0
+167,Day,2,5,147.966883,No,Evening,47.4,1,After,No,FALSE,After-167,0
+168,Night,3,4,174.0951842,No,Morning,38.2,0,After,Yes,FALSE,After-168,0
+169,Day,2,5,122.0156796,No,Afternoon,49.7,2,After,No,FALSE,After-169,0
+170,Night,1,6,109.6570071,No,Evening,54.9,3,After,No,FALSE,After-170,0
+171,Day,2,5,106.3560421,No,Morning,46,1,After,No,FALSE,After-171,0
+172,Day,3,5,108.1478959,No,Afternoon,39.4,0,After,No,FALSE,After-172,0
+173,Night,2,4,126.1069642,No,Evening,52.6,2,After,No,FALSE,After-173,0
+174,Day,1,5,136.2753131,No,Morning,48.4,2,After,No,FALSE,After-174,0
+175,Night,2,5,134.7081691,No,Afternoon,47.2,1,After,No,FALSE,After-175,0
+176,Day,3,5,148.0914326,Yes,Evening,38.7,0,After,No,TRUE,After-176,1
+177,Day,2,6,128.2975124,No,Morning,51.5,3,After,No,FALSE,After-177,0
+178,Night,1,5,163.3189224,No,Afternoon,54.6,3,After,Yes,FALSE,After-178,0
+179,Day,2,5,121.5472293,No,Evening,45.9,1,After,No,FALSE,After-179,0
+180,Night,3,4,194.1126439,No,Morning,37.8,0,After,Yes,FALSE,After-180,0
+181,Day,2,5,143.1922911,No,Afternoon,48.5,2,After,No,FALSE,After-181,0
+182,Night,1,6,107.1426843,No,Evening,52.4,3,After,No,FALSE,After-182,0
+183,Day,3,5,101.9464803,No,Morning,39.1,0,After,No,FALSE,After-183,0
+184,Day,2,5,139.7110163,No,Afternoon,46.7,1,After,No,FALSE,After-184,0
+185,Night,2,4,122.5487159,No,Evening,53.4,3,After,No,FALSE,After-185,0
+186,Day,1,5,145.339797,No,Morning,50.2,2,After,No,FALSE,After-186,0
+187,Day,2,5,139.4865053,No,Afternoon,47.6,1,After,No,FALSE,After-187,0
+188,Night,3,4,126.2108421,No,Evening,38.3,0,After,No,FALSE,After-188,0
+189,Day,2,5,107.3946441,No,Morning,49.9,2,After,No,FALSE,After-189,0
+190,Night,1,6,91.15330216,No,Afternoon,55.1,3,After,No,FALSE,After-190,0
+191,Day,2,5,117.1259968,No,Evening,46.4,1,After,No,FALSE,After-191,0
+192,Day,3,5,148.8017046,No,Morning,39.3,0,After,No,FALSE,After-192,0
+193,Night,2,4,133.1863447,Yes,Afternoon,52.8,2,After,No,TRUE,After-193,1
+194,Day,1,5,97.69571567,Yes,Evening,48.7,2,After,No,TRUE,After-194,1
+195,Night,2,5,132.1916952,No,Morning,47,1,After,No,FALSE,After-195,0
+196,Day,3,5,137.3490376,No,Afternoon,38.6,0,After,No,FALSE,After-196,0
+197,Day,2,6,106.4935718,No,Evening,51.3,3,After,No,FALSE,After-197,0
+198,Night,1,5,131.7186962,No,Morning,54.5,3,After,No,FALSE,After-198,0
+199,Day,2,5,129.3965554,No,Afternoon,45.8,1,After,No,FALSE,After-199,0
+200,Night,3,4,100.1941653,No,Evening,37.9,0,After,No,FALSE,After-200,0
+201,Day,2,5,136.6797432,No,Morning,48.8,2,After,No,FALSE,After-201,0
+202,Night,1,6,141.6148964,No,Afternoon,53.2,3,After,No,FALSE,After-202,0
+203,Day,3,5,154.3119517,No,Evening,39,0,After,Yes,FALSE,After-203,0
+204,Day,2,5,153.6008618,No,Morning,46.9,1,After,Yes,FALSE,After-204,0
+205,Night,2,4,94.48829323,No,Afternoon,53.1,3,After,No,FALSE,After-205,0
+206,Day,1,5,105.1815417,No,Evening,50.1,2,After,No,FALSE,After-206,0
+207,Day,2,5,140.5026661,Yes,Morning,47.4,1,After,No,TRUE,After-207,1
+208,Night,3,4,140.4722934,No,Afternoon,38.2,0,After,No,FALSE,After-208,0
+209,Day,2,5,140.502968,No,Evening,49.7,2,After,No,FALSE,After-209,0
+210,Night,1,6,221.6468635,No,Morning,54.9,3,After,Yes,FALSE,After-210,0
+211,Day,2,5,141.8605874,No,Afternoon,46,1,After,No,FALSE,After-211,0
+212,Day,3,5,155.5886523,No,Evening,39.4,0,After,Yes,FALSE,After-212,0
+213,Night,2,4,151.1745732,No,Morning,52.6,2,After,Yes,FALSE,After-213,0
+214,Day,1,5,143.8176762,No,Afternoon,48.4,2,After,No,FALSE,After-214,0
+215,Night,2,5,120.3167688,No,Evening,47.2,1,After,No,FALSE,After-215,0
+216,Day,3,5,146.4330515,No,Morning,38.7,0,After,No,FALSE,After-216,0
+217,Day,2,6,109.1929248,No,Afternoon,51.5,3,After,No,FALSE,After-217,0
+218,Night,1,5,122.2240167,Yes,Evening,54.6,3,After,No,TRUE,After-218,1
+219,Day,2,5,116.1815315,No,Morning,45.9,1,After,No,FALSE,After-219,0
+220,Night,3,4,129.9718958,No,Afternoon,37.8,0,After,No,FALSE,After-220,0
+221,Day,2,5,184.2540978,No,Evening,48.5,2,After,Yes,FALSE,After-221,0
+222,Night,1,6,82.58551431,No,Morning,52.4,3,After,No,FALSE,After-222,0
+223,Day,3,5,144.6653903,No,Afternoon,39.1,0,After,No,FALSE,After-223,0
+224,Day,2,5,88.77397456,No,Evening,46.7,1,After,No,FALSE,After-224,0
+225,Night,2,4,116.5080751,Yes,Morning,53.4,3,After,No,TRUE,After-225,1
+226,Day,1,5,154.4553735,No,Afternoon,50.2,2,After,Yes,FALSE,After-226,0
+227,Day,2,5,129.5441575,No,Evening,47.6,1,After,No,FALSE,After-227,0
+228,Night,3,4,101.7798915,No,Morning,38.3,0,After,No,FALSE,After-228,0
+229,Day,2,5,110.5913554,No,Afternoon,49.9,2,After,No,FALSE,After-229,0
+230,Night,1,6,144.5034168,No,Evening,55.1,3,After,No,FALSE,After-230,0
+231,Day,2,5,110.2251541,No,Morning,46.4,1,After,No,FALSE,After-231,0
+232,Day,3,5,133.2438375,No,Afternoon,39.3,0,After,No,FALSE,After-232,0
+233,Night,2,4,129.0893347,No,Evening,52.8,2,After,No,FALSE,After-233,0
+234,Day,1,5,112.1400758,No,Morning,48.7,2,After,No,FALSE,After-234,0
+235,Night,2,5,180.1037832,Yes,Afternoon,47,1,After,Yes,TRUE,After-235,1
+236,Day,3,5,143.3929012,Yes,Evening,38.6,0,After,No,TRUE,After-236,1
+237,Day,2,6,78.74728771,No,Morning,51.3,3,After,No,FALSE,After-237,0
+238,Night,1,5,132.5143904,No,Afternoon,54.5,3,After,No,FALSE,After-238,0
+239,Day,2,5,111.8924366,No,Evening,45.8,1,After,No,FALSE,After-239,0
+240,Night,3,4,148.7052985,No,Morning,37.9,0,After,No,FALSE,After-240,0
+241,Day,2,5,108.7140983,Yes,Afternoon,48.8,2,After,No,TRUE,After-241,1
+242,Night,1,6,125.1920097,Yes,Evening,53.2,3,After,No,TRUE,After-242,1
+243,Day,3,5,140.258385,No,Morning,39,0,After,No,FALSE,After-243,0
+244,Day,2,5,149.0291721,No,Afternoon,46.9,1,After,No,FALSE,After-244,0
+245,Night,2,4,98.80048511,No,Evening,53.1,3,After,No,FALSE,After-245,0
+246,Day,1,5,119.8492114,No,Morning,50.1,2,After,No,FALSE,After-246,0
+247,Day,2,5,116.4348139,No,Afternoon,47.4,1,After,No,FALSE,After-247,0
+248,Night,3,4,112.0980441,No,Evening,38.2,0,After,No,FALSE,After-248,0
+249,Day,2,5,170.9021504,No,Morning,49.7,2,After,Yes,FALSE,After-249,0
+250,Night,1,6,137.8271058,No,Afternoon,54.9,3,After,No,FALSE,After-250,0
